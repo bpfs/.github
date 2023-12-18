@@ -1,3 +1,5 @@
+![flow diagram](bpfs.jpg)
+
 # BPFS(Blockchain portable file storage) 区块链便携式文件存储
 
 BPFS 是一种创新的动态存储解决方案，它旨在通过内容寻址、数据分片、节点共振、数据迁移、数据补偿和激励机制等前沿技术，为用户提供了一个去中心化、高效、私密的存储环境。
