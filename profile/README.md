@@ -1,4 +1,4 @@
-![flow diagram](bpfs.jpg)
+![flow diagram](profile/bpfs.jpg)
 
 # BPFS(Blockchain portable file storage) 区块链便携式文件存储
 
